@@ -1,0 +1,1 @@
+A gui based contact management system (CMS) written purely in Python using the library **Tkinter**.
